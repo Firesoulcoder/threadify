@@ -1,4 +1,4 @@
-🚀 Threadify - AI Twitter Thread Generator  
+# 🚀 Threadify - AI Twitter Thread Generator  
 
 Effortlessly create engaging Twitter threads with AI! Simply enter a **topic** and **tone**, and Threadify will generate a viral-worthy Twitter thread for you.  
 
